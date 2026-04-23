@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GelezaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95028933c2547df6e591dee2a1ff5b63c1b2ea46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99b7063ecd60fffdd30ca5cf5b77b8838e899f5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GelezaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GelezaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
