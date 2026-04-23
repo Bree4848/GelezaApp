@@ -1,6 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using GelezaApp.Data;
 using GelezaApp.Components;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlite("Data Source=Geleza.db"));
+
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
